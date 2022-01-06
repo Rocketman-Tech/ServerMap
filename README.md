@@ -23,8 +23,8 @@ The following parameters are required:
 ## Examples
 
 ```txt
-  ./servermap -u 'https://rocketman.jamfcloud.com' -l healthcheck -p 'Jamf1234'
-  ./servermap --url='https://rocketman.jamfcloud.com' --login=healthcheck --pass='Jamf1234'
+  ./servermap -u 'https://rocketman.jamfcloud.com' -l healthcheck -p 'Jamf1234!'
+  ./servermap --url='https://rocketman.jamfcloud.com' --login=healthcheck --pass='Jamf1234!'
 ```
 
 ## Sample Output
