@@ -218,4 +218,4 @@ Once the executable version has been tested a bit more, a few more features are 
 - [ ] Add list of un-scoped configuration profiles
 
 ## Disclaimer
-This code is ***extremely*** alpha test right now. There is a lot of functionality that needs to be added and the output is hideous. And while it uses get/read-only calls to the API, we still can't promise that it won't rise up and destroy all the humans or something. So... no promises, okay?
+This code is ***extremely*** alpha test right now. There is a lot of functionality that needs to be added and the output is hideous. And while it uses get/read-only calls to the API, we still can't guarantee that it won't rise up and destroy all the humans or something. So... no promises, okay?
