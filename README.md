@@ -2,16 +2,21 @@
 
 Creates a map of Jamf Pro server objects to see which are in use and which can be deprecated/deleted.
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Usage](#usage)
-- [Examples](#examples)
-- [Sample Output](#sample-output)
-- [Where's the source code?](#wheres-the-source-code)
-- [TODO](#todo)
-- [Disclaimer](#disclaimer)
+- [Server Map](#server-map)
+	- [Access](#access)
+	- [Usage](#usage)
+	- [Examples](#examples)
+	- [Sample Output](#sample-output)
+	- [Where's the source code?](#wheres-the-source-code)
+	- [TODO](#todo)
+	- [Disclaimer](#disclaimer)
 
 <!-- /TOC -->
+
+## Access
+You will need a Jamf Pro account with _Auditor_ level access.
 
 ## Usage
 The following parameters are required:
